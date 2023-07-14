@@ -1,0 +1,44 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my contact
+    </title>
+    <link rel="stylesheet" href="C:\Users\HP\Desktop\dex\web develpoment\css\styles.css">
+</head>
+<body>
+<H2>My Personal Details </H2>
+  <h3>
+   <p>+2348139363101</p>
+   <p>ifenusinoble@gmail.com</p>
+  </h3>
+<hr>
+  <form class="" action="mailto:ifenusinoble@gmail.com" method="post" enctype="text/plain">
+    <label for="">Your Name</label>
+    <input type="text" name="your name">
+    <br>
+    <label for="">Your email</label>
+    <input type="email"name="your email">
+    <br>
+    <label for="">Your message</label>
+    <textarea name="your message" id="" cols="20" rows="4"></textarea>
+    <input type="submit">
+    <hr size="4"color=purple="8">
+  </form>
+  <form class="" action="index.html" method="post" >
+<label>Your Name:  </label>
+<input type="text" name="" Value="">
+<input type="color" name="">
+<input type="submit" name=""><br>
+<label>Do you want to sign up for this Email list?</label>
+  <input type="checkbox" name="" id=""><br>
+  <label>password:</label> 
+  <input type="password"><p></p>
+  Date of Birth <input type="date" name="" id=""><p></p>
+  <input>
+  </form>
+</body>
+</html>
+    </HTML>

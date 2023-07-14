@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>IFENUSI's Personal Site</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th><h1>IFENUSI</h1>
+        <img src="https://scontent.fabv2-1.fna.fbcdn.net/v/t39.30808-6/352127926_648177530014964_2174480027867640265_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeF9f2UTCgsfg6oPtd7jN3DWzwvqQPqZKUbPC-pA-pkpRs4TP6PxQ3bF7esEdqs4paQi7icEu298r6La_JoTrWJj&_nc_ohc=kNE8VwEk76MAX-J6_y4&_nc_zt=23&_nc_ht=scontent.fabv2-1.fna&oh=00_AfBEvTLuk-KddCJ5abyGyurVxzDA6448OdBHh06HfsfncA&oe=6495057D"  alt="ifenusi profile picture"
+        width="200"
+        height="300">    </th>
+        <th><h2>Ifeoluwa E. Olanusi,
+             <p>Department Of Science and Computing</p></h2>
+        <p> Ife was born on the 16th of July in year 2002 in Akure, Ondo state, Nigeria.</p>
+   <P><h2>Research Interest</h3></P>
+<p>JAVA, </p></th>
+            </tr>
+        </table>
+        <p>
+          <p>  <br> <a href="https://www.facebook.com/ife.ife.202"> Facebook </a></p>
+        <p>Student of Wellspring University, Benin, Nigeria.</p>
+            </p>College of science and computing </P>
+             <p>Nationality: Nigeria</p>
+             <p> Religion: CHRISTIAITY </p>
+             I Love <a href="http://www.appbrewery.co">learning </a>.<p>
+                <hr>
+                </p> <br><a href="http://instagram.com/ifenusi_noble?igshid=MzRIODBINWFIZA=="> Instagram </a>.</p>
+                <P> Whatsapp <br> <a href="wa.me:/2348139363101" > Whatsapp</a></P>
+                </p>Facebook<br> <a href=https://www.facebook.com/ife.ife.202> Facebook</a></p>
+<hr>
+<h3> Institution Attended </h3> 
+<ul>
+    </ol><li>Grand School Akure   {Primary School Eduation} </li></ol>
+    <li>Comfort Tenderfeet College, Akure. {Junior and seecondary Edu.}</li>
+    <li>Adekunle Ajasin University, Akungba Akoko,AAUA {Predegree Studies}</li>
+    <li>Wellspring University,Benin, Edo state {BSC Degree}</li>
+<hr>
+<h2> Skills </h2>
+    <table border="10">
+        <tbody>
+        <tr>
+    <th>Computer </th>
+    <th>⭐⭐⭐⭐</th>
+        </tr>
+    <tr>
+        <th>Painting</th>
+        <th>⭐⭐⭐⭐</th>
+        </tr>
+        <tr>
+            <th>Cooking</th>
+            <th>⭐⭐⭐⭐⭐</th>
+    </tr>
+    <tr>
+<th> Photography</th>
+<th>⭐⭐⭐</th>
+    </tr>
+    <tr>
+        <th>Coding</th>
+        <th>⭐</th>
+    </tr>
+     </tbody>
+    </table>
+<hr>
+    </p> <br><a href="http://127.0.0.1:3000/c:/Users/unknown/First ife's"> Contact Me </a>.</p>
+    <hr>
+  <H3>WORK EXPERIENCES</H3> 
+  <table>
+    <tr>
+                    <td>Date</td>
+                    <td> Work </td>
+                    <tr>
+            <td>2018-2022</td>
+            <td>Flora pharmacy store Attendant at Akure</td>
+        </tr>
+    </tr>
+    <td>2021- 2022</td>
+    <td>Computer Engineering Skill Aquisition at Akure </td>
+    <tr>       
+    </tr>
+    </tr>
+    <td> 2022</td>
+    <td> Professional Painting and Interior Decoration Service at Akungba Akoko </td>
+   <table border="3">
+   <thead>
+    <body>
+         <foot>
+        <tr>
+            <th>Date</th>
+            <th> Work</th>
+        </tr>
+        <tr>
+            <th>2022</th>
+            <th>painting </th>
+        </tr>
+        </table>
+                <h3>Qualifications</h3>
+                <table>
+                <tr>
+                <td>2019</td>
+                <td>WAEC</td>
+                </tr>
+                <td>2019</td>
+                <td>NECO</td>
+        </table>
+    </body>
+   </thead>
+<hr size="10">
+<table cellspacing="50">
+    <tr>
+        <td><hr>
+<h2> Skills </h2>
+    <table border="10">
+        <tbody>
+        <tr>
+    <th>Computer </th>
+    <th>⭐⭐⭐⭐</th>
+        </tr>
+    <tr>
+        <th>Painting</th>
+        <th>⭐⭐⭐⭐</th>
+        </tr>
+        <tr>
+            <th>Cooking</th>
+            <th>⭐⭐⭐⭐⭐</th>
+    </tr>
+    <tr>
+<th> Photography</th>
+<th>⭐⭐⭐</th>
+    </tr>
+    <tr>
+        <th>Coding</th>
+        <th>⭐</th>
+    </tr>
+     </tbody>
+    </table></td>
+        <td><hr>
+<h2> Skills </h2>
+    <table border="10">
+        <tbody>
+        <tr>
+    <th>Computer </th>
+    <th>⭐⭐⭐⭐</th>
+        </tr>
+    <tr>
+        <th>Painting</th>
+        <th>⭐⭐⭐⭐</th>
+        </tr>
+        <tr>
+            <th>Cooking</th>
+            <th>⭐⭐⭐⭐⭐</th>
+    </tr>
+    <tr>
+<th> Photography</th>
+<th>⭐⭐⭐</th>
+    </tr>
+    <tr>
+        <th>Coding</th>
+        <th>⭐</th>
+    </tr>
+     </tbody>
+    </table></td>
+    </tr>
+</table>
+   </tbody>
+</foot>
+
+   </foot>
+    <hr>
+</ol>
+    </ul>
+    <hr>
+</ul>
+<ol>
+    <li
